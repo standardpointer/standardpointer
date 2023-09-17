@@ -27,7 +27,7 @@ I studied computer science and music in university. To date, professional experi
 <a href="https://ableton.com"><img src="https://avatars.githubusercontent.com/u/14052912?s=200&v=4" width="48" height="48" alt="Ableton" /></a>
 </div>
 
-## Language 
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standard-robot&show_icons=true&theme=react&card_width=475)](https://github.com/standard-robot/github-readme-stats)
 
 ### Socials
