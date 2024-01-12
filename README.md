@@ -12,7 +12,7 @@
 I studied computer science and music in university. I'm currently a software engineer with a strong interest in cybersecurity. On the side, I like to make electronic music and learn more about digital signal processing. I love learning new things via trial-by-fire and despise ligatures.
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standard-robot&show_icons=true&theme=react&card_width=475)](https://github.com/standard-robot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stdrobot&show_icons=true&theme=react&card_width=475)](https://github.com/stdrobot/github-readme-stats)
 
 ### Socials
 <div style="display: flex">
