@@ -7,9 +7,9 @@
 ### I am standardrobot.
 
 - 🖥️ https://standardrobot.dev
-- 🔭 I’m passionate about cybsecurity, music, and learning new technology. 
+- 🔭 I’cybsecurity, music, and learning new technology. 
 
-I studied computer science and music in university. To date, professional experience includes an internship on an offensive security team and as a cyber systems engineer (current job), focused on secure software development. On the side, I like to make electronic music and learn more about digital signal processing. I love learning new things via trial-by-fire and despise ligatures.
+I studied computer science and music in university. I'm currently a software engineer with a strong interest in cybersecurity. On the side, I like to make electronic music and learn more about digital signal processing. I love learning new things via trial-by-fire and despise ligatures.
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standard-robot&show_icons=true&theme=react&card_width=475)](https://github.com/standard-robot/github-readme-stats)
