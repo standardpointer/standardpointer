@@ -4,7 +4,7 @@
 
 ---
 
-### I am standardpointer.
+### nifty.
 
 - 🖥️ https://standardpointer.com
 - 🔭 cybsecurity, music, and learning new technology. 
