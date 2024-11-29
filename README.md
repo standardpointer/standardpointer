@@ -7,7 +7,6 @@
 ### nifty.
 
 - 🖥️ https://standardpointer.com
-- 🔭 cybsecurity, music, and learning new technology. 
 
 I studied computer science and music in university. I'm currently a software engineer with a strong interest in cybersecurity. On the side, I like to make electronic music and learn more about digital signal processing. I despise ligatures.
 
