@@ -4,7 +4,7 @@
 
 ---
 
-### nifty.
+### About me
 
 - 🖥️ https://standardpointer.com
 
